@@ -1,0 +1,225 @@
+ArticleId,title,genres
+1,Toy Story (1995),Sport|acg|Job|News
+2,Jumanji (1995),Sport|Job
+3,Grumpier Old Men (1995),News|Relationship
+4,Waiting to Exhale (1995),News|Relationship
+5,Father of the Bride Part II (1995),News
+6,Heat (1995),Art|Self|Society
+7,Sabrina (1995),News|Relationship
+8,Tom and Huck (1995),Sport|Job
+9,Sudden Death (1995),Art
+10,GoldenEye (1995),Art|Sport|Society
+11,"American President, The (1995)",News|Relationship
+12,Dracula: Dead and Loving It (1995),News|Life
+13,Balto (1995),Sport|acg|Job
+14,Cutthroat Island (1995),Art|Sport|Relationship
+15,Casino (1995),Self
+16,Sense and Sensibility (1995),Relationship
+17,Four Rooms (1995),News
+18,Ace Ventura: When Nature Calls (1995),News
+19,Money Train (1995),Art|News|Self|Society
+20,Get Shorty (1995),News|Self|Society
+21,Copycat (1995),Self|Life|edu|Society
+22,Assassins (1995),Art|Self|Society
+23,Powder (1995),Tech
+24,Leaving Las Vegas (1995),Relationship
+25,Now and Then (1995),Job
+26,Persuasion (1995),Relationship
+27,"City of Lost Job, The (Cité des enfants perdus, La) (1995)",Sport|edu|Tech
+28,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),Self
+29,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),edu|Tech|Society
+30,Babe (1995),Job
+31,Dead Man Walking (1995),Self
+32,It Takes Two (1995),Job|News
+33,Clueless (1995),News|Relationship
+34,Dead Presidents (1995),Art|Self
+35,Mortal Kombat (1995),Art|Sport
+36,To Die For (1995),News|Society
+37,How to Make an American Quilt (1995),Relationship
+38,Seven (a.k.a. Se7en) (1995),edu|Society
+39,Pocahontas (1995),acg|Job|Relationship
+40,When Night Is Falling (1995),Relationship
+41,"Usual Suspects, The (1995)",Self|edu|Society
+42,Mighty Aphrodite (1995),News|Relationship
+43,Lamerica (1994),Sport
+44,"Big Green, The (1995)",Job|News
+45,"Postman, The (Postino, Il) (1994)",News|Relationship
+46,"Indian in the Cupboard, The (1995)",Sport|Job
+47,Eye for an Eye (1996),Society
+48,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),News|Self
+49,Two if by Sea (1996),News|Relationship
+50,Bio-Dome (1996),News
+51,Lawnmower Man 2: Beyond Cyberspace (1996),Art|Tech|Society
+52,French Twist (Gazon maudit) (1995),News|Relationship
+53,Friday (1995),News
+54,From Dusk Till Dawn (1996),Art|News|Life|Society
+55,Fair Game (1995),Art
+56,Kicking and Screaming (1995),News
+57,Bed of Roses (1996),Relationship
+58,Big Bully (1996),News
+59,Screamers (1995),Art|Tech|Society
+60,Nico Icon (1995),Financial
+61,"Crossing Guard, The (1995)",Art|Self|Society
+62,"Juror, The (1996)",Society
+63,"White Balloon, The (Badkonake sefid) (1995)",Job
+64,Things to Do in Denver When You're Dead (1995),Self|Relationship
+65,Antonia's Line (Antonia) (1995),News
+66,Once Upon a Time... When We Were Colored (1995),Relationship
+67,Angels and Insects (1995),Relationship
+68,White Squall (1996),Art|Sport
+69,Dunston Checks In (1996),Job|News
+70,Black Sheep (1996),News
+71,Nick of Time (1995),Art|Society
+72,Mary Reilly (1996),Life|Society
+73,Vampire in Brooklyn (1995),News|Life|Relationship
+74,Beautiful Girls (1996),News|Relationship
+75,Broken Arrow (1996),Art|Sport|Society
+76,In the Bleak Midwinter (1995),News
+77,"Hate (Haine, La) (1995)",Self
+78,Heidi Fleiss: Hollywood Madam (1995),Financial
+79,City Hall (1996),Society
+80,Bottle Rocket (1996),Sport|News|Self|Relationship
+81,Mr. Wrong (1996),News
+82,Unforgettable (1996),edu|Tech|Society
+83,Happy Gilmore (1996),News
+84,"Bridges of Madison County, The (1995)",Relationship
+85,Nobody Loves Me (Keiner liebt mich) (1994),News
+86,Muppet Treasure Island (1996),Sport|Job|News
+87,Catwalk (1996),Financial
+88,Braveheart (1995),Art
+89,Taxi Driver (1976),Self|Society
+90,Rumble in the Bronx (Hont faan kui) (1995),Art|Sport|News|Self
+91,Before and After (1996),edu
+92,Anne Frank Remembered (1995),Financial
+93,"Young Poisoner's Handbook, The (1995)",Self
+94,If Lucy Fell (1996),News|Relationship
+95,"Steal Big, Steal Little (1995)",News
+96,Boomerang (1992),News|Relationship
+97,Chungking Express (Chung Hing sam lam) (1994),edu|Relationship
+98,Flirting With Disaster (1996),News
+99,"NeverEnding Story III, The (1994)",Sport|Job
+100,Jupiter's Wife (1994),Financial
+101,Pie in the Sky (1996),News|Relationship
+102,Jade (1995),Society
+103,Down Periscope (1996),News
+104,Man of the Year (1995),Financial
+105,Up Close and Personal (1996),Relationship
+106,"Birdcage, The (1996)",News
+107,"Brothers McMullen, The (1995)",News
+108,Bad Boys (1995),Art|News|Self|Society
+109,"Amazing Panda Sport, The (1995)",Sport|Job
+110,Amateur (1994),Self|Society
+111,Apollo 13 (1995),Sport
+112,Rob Roy (1995),Art|Relationship
+113,"Addiction, The (1995)",Life
+114,Batman Forever (1995),Art|Sport|News|Self
+115,Beyond Rangoon (1995),Sport
+116,Blue in the Face (1995),News
+117,Canadian Bacon (1995),News
+118,Casper (1995),Sport|Job
+119,Clockers (1995),Self|edu
+120,Congo (1995),Art|Sport|edu|Tech
+121,Crimson Tide (1995),Society
+122,Crumb (1994),Financial
+123,Desperado (1995),Art|Relationship
+124,Devil in a Blue Dress (1995),Self|Society
+125,Die Hard: With a Vengeance (1995),Art|Self|Society
+126,"Doom Generation, The (1995)",News|Self
+127,First Knight (1995),Art|Relationship
+128,Free Willy 2: The Sport Home (1995),Sport|Job
+129,Hackers (1995),Art|Sport|Self|Society
+130,Jeffrey (1995),News
+131,Johnny Mnemonic (1995),Art|Tech|Society
+132,Judge Dredd (1995),Art|Self|Tech
+133,Jury Duty (1995),News
+134,Living in Oblivion (1995),News
+135,Lord of Illusions (1995),Life
+136,Love & Human Remains (1993),News
+137,Mad Love (1995),Relationship
+138,Mallrats (1995),News|Relationship
+139,Mighty Morphin Power Rangers: The Movie (1995),Art|Job
+140,Mute Witness (1994),News|Life|Society
+141,"Net, The (1995)",Art|Self|Society
+142,Nine Months (1995),News|Relationship
+143,Party Girl (1995),News
+144,"Prophecy, The (1995)",Life|edu
+145,Reckless (1995),News
+146,Safe (1995),Society
+147,"Scarlet Letter, The (1995)",Relationship
+148,Smoke (1995),News
+149,Something to Talk About (1995),News|Relationship
+150,Species (1995),Life|Tech
+151,Strange Days (1995),Art|Self|edu|Tech|Society
+152,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",Relationship
+153,Total Eclipse (1995),Relationship
+154,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",News
+155,Under Siege 2: Dark Territory (1995),Art
+156,Unstrung Heroes (1995),News
+157,Unzipped (1995),Financial
+158,"Walk in the Clouds, A (1995)",Relationship
+159,Waterworld (1995),Art|Sport|Tech
+160,Bushwhacked (1995),Sport|News|Self|edu
+161,Before Sunrise (1995),Relationship
+162,Billy Madison (1995),News
+163,"Babysitter, The (1995)",Society
+164,Boys on the Side (1995),News
+165,Castle Freak (1995),Life
+166,Circle of Friends (1995),Relationship
+167,Clerks (1994),News
+168,Don Juan DeMarco (1995),News|Relationship
+169,Disclosure (1994),Society
+170,Drop Zone (1994),Art|Society
+171,Destiny Turns on the Radio (1995),News
+172,Death and the Maiden (1994),Society
+173,Dolores Claiborne (1995),Society
+174,Dumb & Dumber (Dumb and Dumber) (1994),Sport|News
+175,Eat Drink Man Woman (Yin shi nan nu) (1994),News|Relationship
+176,Exit to Eden (1994),News
+177,Ed Wood (1994),News
+178,French Kiss (1995),Art|News|Relationship
+179,Forget Paris (1995),News|Relationship
+180,Far From Home: The Sports of Yellow Dog (1995),Sport|Job
+181,"Goofy Movie, A (1995)",acg|Job|News|Relationship
+182,Hideaway (1995),Society
+183,Fluke (1995),Job
+184,Gordy (1995),Job|News
+185,Hoop Dreams (1994),Financial
+186,Heavenly Creatures (1994),Self
+187,Houseguest (1994),News
+188,Immortal Beloved (1994),Relationship
+189,Heavyweights (Heavy Weights) (1995),Job|News
+190,"Hunted, The (1995)",Art
+191,I.Q. (1994),News|Relationship
+192,Interview with the Vampire: The Vampire Chronicles (1994),Life
+193,"Jerky Boys, The (1995)",News
+194,Junior (1994),News|Tech
+195,Just Cause (1995),edu|Society
+196,"Kid in King Arthur's Court, A (1995)",Sport|Job|News|Relationship
+197,Kiss of Death (1995),Self|Society
+198,Star Wars: Episode IV - A New Hope (1977),Art|Sport|Tech
+199,"Little Princess, A (1995)",Job
+200,Like Water for Chocolate (Como agua para chocolate) (1992),Relationship
+201,Legends of the Fall (1994),Relationship
+202,Major Payne (1995),News
+203,Love Affair (1994),Relationship
+204,"Madness of King George, The (1994)",News
+205,Mary Shelley's Frankenstein (Frankenstein) (1994),Life|Tech
+206,Man of the House (1995),News
+207,Mixed Nuts (1994),News
+208,Milk Money (1994),News|Relationship
+209,Miami Rhapsody (1995),News
+210,Murder in the First (1995),Society
+211,Nobody's Fool (1994),News|Relationship
+212,New Jersey Drive (1995),Self
+213,New York Cop (Nyû Yôku no koppu) (1993),Art|Self
+214,Beyond Bedlam (1993),Life
+215,Nina Takes a Lover (1994),News|Relationship
+216,Natural Born Killers (1994),Art|Self|Society
+217,Only You (1994),News|Relationship
+218,Once Were Warriors (1994),Self
+219,Poison Ivy II (1996),Society
+220,Outbreak (1995),Art|Tech|Society
+221,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Art|Self|Society
+222,"Perez Family, The (1995)",News|Relationship
+223,"Pyromaniac's Love Story, A (1995)",News|Relationship
+224,Pulp Fiction (1994),News|Self|Society
